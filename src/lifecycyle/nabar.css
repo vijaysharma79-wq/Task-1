@@ -3,6 +3,11 @@ ul{
     margin-left: 50px;
     
 }
+.nav-link{
+  text-decoration: none;  
+  list-style: none;
+  color: black;
+}
 .nav-item{
     font-size: 30px;
     margin-left: 10px;
