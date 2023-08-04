@@ -1,0 +1,54 @@
+.bt-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.candidate-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+}
+.job-listing{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.candidate-input form {
+     display: grid; 
+     
+    /* grid-template-columns: 1fr 3fr; */
+    /* gap: 1rem; */ 
+}
+
+.candidate-input label {
+    font-weight: bold;
+}
+
+.candidate-input input, .candidate-input textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.candidate-input button {
+    background-color: #0a0a0a;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+.applu-button
+
+.candidate-input button:hover {
+    background-color: #0056b3;
+}
+#candidate-form .my{
+    /* display: flex; */
+    
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* background-color: #e22424; */
+}

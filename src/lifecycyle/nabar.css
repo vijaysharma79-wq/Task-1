@@ -1,0 +1,19 @@
+
+ul{
+    margin-left: 50px;
+    
+}
+.nav-item{
+    font-size: 30px;
+    margin-left: 10px;
+}
+button{
+    margin-right: 20px;
+    margin-left: 10px;
+
+}
+li{
+    list-style: none;
+}
+
+
