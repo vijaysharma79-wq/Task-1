@@ -12,8 +12,8 @@ const Bt= ({filtes,setdata,datas}) => {
         <section className="job-listings">
             {/* <!-- Sample Job Listing --> */}
             <div className="job-listing">
-                <h2>Job Title</h2>
-                <p>Company Name</p>
+                <h2>devloper</h2>
+                <p>top hire</p>
                 <p>Location</p>
                 <button className="btn btn-dark">Apply Now</button>
             </div>
